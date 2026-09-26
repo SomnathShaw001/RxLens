@@ -32,7 +32,7 @@ RxLens/
 ## Quick Start for Developers
 
 ### Prerequisites
-- Python 3.11+ / 3.12+
+- Python 3.11+ 
 - Docker & Docker Compose
 - Git
 
